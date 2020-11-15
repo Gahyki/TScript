@@ -1,1 +1,1 @@
-# TScript a for fun project ^^
+# TScript, a for fun project ^^
